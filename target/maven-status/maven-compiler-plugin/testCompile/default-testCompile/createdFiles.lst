@@ -1,0 +1,4 @@
+com\FSSolutions\stepDefinitions\fsSolution\ui\loginPageStepDef.class
+com\FSSolutions\stepDefinitions\fsSolution\ui\adminPageStepDef.class
+com\FSSolutions\stepDefinitions\common\web\Browser.class
+com\FSSolutions\testRunners\TestRunner.class
